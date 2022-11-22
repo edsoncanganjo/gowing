@@ -14,3 +14,5 @@ Declaração automática e atribuição direta
 ```go
 result := "valor"
 ```
+
+# gowing
